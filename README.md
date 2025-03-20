@@ -12,5 +12,10 @@ The second project was made for a different reason,a activity proposed in the cl
 
 A C code made to display a betting game in a way that is as close to reality as possible 
 
-# Why?
-It’s a quick way to edit and navigate code. It's especially useful if you want to edit multiple files at a time or take advantage of all the powerful code editing features of Visual Studio Code when making a quick change. For more information, see our [documentation](https://github.co/codespaces-editor-help).
+# Paste Structure
+ <h2>Estrutura do Projeto 🗂️</h2>
+    <pre>
+    /projeto-em c/
+    ├── Morse.c      
+    ├── JogoDoBicho.c             
+    </pre>
