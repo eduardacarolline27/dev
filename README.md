@@ -1,4 +1,4 @@
-# C class Projects 
+# C/C++ class Projects 
 
 The first project is a Morse code made to run in a Arduino Uno, prepared and reviewed to be efficient and effective to run smoothly in the Arduino.
 
