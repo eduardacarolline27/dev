@@ -16,6 +16,7 @@ A C code made to display a betting game in a way that is as close to reality as 
  <h2>Estrutura do Projeto 🗂️</h2>
     <pre>
     /projeto-em c/
-    ├── Morse.c      
-    ├── JogoDoBicho.c             
+    ├── Morse.cpp      
+    ├── JogoDoBicho.cpp
+    ├── README.md       
     </pre>
