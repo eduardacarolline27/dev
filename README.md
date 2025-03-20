@@ -12,6 +12,7 @@ The second project was made for a different reason,a activity proposed in the cl
 
 A C code made to display a betting game in a way that is as close to reality as possible 
 
+All the projects were made in VScode IDE
 # Paste Structure
  <h2>Estrutura do Projeto 🗂️</h2>
     <pre>
