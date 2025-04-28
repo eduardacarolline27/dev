@@ -6,8 +6,6 @@ the materials used was the Arduino Uno, Wires, connector, LED's and a a buzzer, 
 
 Here bellow the the logical diagram of the project:
 
-![Arduino Uno](https://pin.it/7eIKGbq9G)
-
 The second project was made for a different reason,a activity proposed in the classroom by the teacher, so that we can individually use the knowledge acquired in the subject of C.
 
 A C code made to display a betting game in a way that is as close to reality as possible 
