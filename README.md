@@ -1,21 +1,17 @@
-# C/C++ class Projects 
+<body>
+<h1>Projetos em C</h1>
 
-The first project is a Morse code made to run in a Arduino Uno, prepared and reviewed to be efficient and effective to run smoothly in the Arduino.
+<p>O primeiro projeto é um codigo morse feito para rodar de maneira eficiente em um Arduino Uno. Os materiais usados para o desenvolvimnento do projeto foram o propío Arduino Uno, fios 220V, para energ, LED's, para piscar no codigo, e um buzzer, para emitir os sons do codigo morse.</p>
 
-the materials used was the Arduino Uno, Wires, connector, LED's and a a buzzer, to display the sounds of morse code
+<p>O segundo projeto foi resultado de um trabalho realizadop para idividualmnte usar nossos conhecimentos gnhaos em C, fiz um codigo que simule um jogo conhecido de apostas Brasieliro: O jogo do Bicho</p>
 
-Here bellow the the logical diagram of the project:
-
-The second project was made for a different reason,a activity proposed in the classroom by the teacher, so that we can individually use the knowledge acquired in the subject of C.
-
-A C code made to display a betting game in a way that is as close to reality as possible 
-
-All the projects were made in VScode IDE
-# Paste Structure
  <h2>Estrutura do Projeto 🗂️</h2>
     <pre>
     /projeto-em c/
-    ├── Morse.cpp      
-    ├── JogoDoBicho.cpp
-    ├── README.md       
+    ├── Morse.c      
+    ├── JogoDoBicho.c
+    ├── README.md
+    └──
     </pre>
+
+</body>
